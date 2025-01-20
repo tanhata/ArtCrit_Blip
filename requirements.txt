@@ -1,8 +1,7 @@
-transformers
-accelerate
-torch
-sentencepiece
-safetensors
-torchvision
-PIL
-kagglehub
+torch==1.13.1
+transformers==4.30.0
+torchvision==0.14.0
+kaggle==1.5.12
+Pillow==9.4.0
+nltk==3.8.1
+
