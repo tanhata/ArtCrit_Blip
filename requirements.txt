@@ -1,0 +1,8 @@
+transformers
+accelerate
+torch
+sentencepiece
+safetensors
+torchvision
+PIL
+kagglehub
