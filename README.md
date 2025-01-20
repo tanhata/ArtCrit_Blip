@@ -1,4 +1,4 @@
-# # Art Critic: AI Art Critique Powered by BLIP
+# Art Critic: AI Art Critique Powered by BLIP
 
 Welcome to the **Art Critic** repository! This project uses the **BLIP (Bootstrapping Language-Image Pretraining)** model to critique and provide in-depth analysis of art pieces. The AI is fine-tuned to interpret art based on visual features and generate insightful critiques about artistic style, composition, and thematic content.
 
